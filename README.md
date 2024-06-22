@@ -5,16 +5,16 @@ I'm interested in Cloud, Backend Development, Data Engineering.
 
 ### 💻 Currently Learning
 
-- **Infra:** AWS(EC2, Lambda, SQS, API Gateway, RDS, S3), Kubernetes, Terraform
-- **Data Science:** Pytorch, Tensorflow
-- **Backend & Data Engineer:** Spring Boot, JPA, FastAPI, Airflow
-- **FrontEnd & Design:** Vue.js, Vuetify, Figma
-- **Project Management:** Jira, Notion
+- **Cloud:** AWS, Kubernetes, Terraform, Helm, Prometheus, Grafana, Istio ...
+- **Backend & Data Engineer:** FastAPI, Spring Boot, Kafka, Airflow
+- **Data Science:** Pytorch, Hugging face
 
-### 🪪 Licenses & Certifications
+### 🪪 Licenses & Certifications | [Credly](https://www.credly.com/users/taehyeok-yoo/badges)
 - CKA: Certified Kubernetes Administrator
-- HashiCorp Certified: Terraform Associate (003)
 - AWS Certified Solutions Architect – Associate(SAA-C03)
+- ICA: Istio Certified Associate
+- PCA: Prometheus Certified Associate
+- HashiCorp Certified: Terraform Associate (003)
 - Architecting on AWS
 - TOPCIT 563(Level 3)
 - Certified Investment Manager
